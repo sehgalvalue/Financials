@@ -7,7 +7,7 @@ Automat==0.7.0
 Babel==2.6.0
 backcall==0.1.0
 beautifulsoup4==4.7.1
-bleach==2.1.4
+bleach==3.1.2
 bokeh==1.0.4
 branca==0.3.1
 bs4==0.0.1
